@@ -1,0 +1,9 @@
+:global .active {
+    color: orangered !important;
+    background-color: #FAC898 !important;
+}
+
+.item {
+    border-radius: 4px !important;
+    transition: all 0.2s ease-in-out !important;
+}
